@@ -1,0 +1,22 @@
+HP,EliteBook,Corei7,16GB,HDD,4GB,20000,146000
+Lenovo,IdeaPad,Corei7,16GB,SSD,8GB,15000,193000
+Dell,Inspiron,Corei5,16GB,SSD,4GB,10000,174000
+Compaque,Presario,Corei3,16GB,HDD,4GB,15000,165000
+Asus,Zenbook,Corei9,32GB,SSD,8GB,10000,432000
+Honor,MagicBook,Corei7,16GB,SSD,4GB,20000,234000
+Apple,Macbook Air,Corei7,16GB,SSD,4GB,10000,256000
+Acer,Aspire,Corei7,12GB,HDD,4GB,10000,94000
+Walton,Prelude,Corei7,16GB,SSD,8GB,10000,199000
+Huawei,MateBook,Corei7,16GB,SSD,4GB,10000,145000
+Google,Pixelbook Go,Corei7,16GB,SSD,8GB,15000,123000
+LG,Xnote,Corei7,16GB,HDD,4GB,20000,102000
+Microsoft,Microsoft Surface,Corei5,16GB,SSD,4GB,15000,73000
+Origin PC,NT-17,Corei7,16GB,SSD,4GB,20000,162000
+Panasonic,Let's Note,Corei7,16GB,HDD,8GB,15000,178000
+Realme,Realmebook,Corei7,16GB,SSD,4GB,20000,134000
+Slimbook,Essential 15,Corei5,16GB,HDD,8GB,10000,263000
+Xiaomi,Mi NoteBook,Corei7,16GB,SSD,4GB,15000,123000
+Vastking,Kingbook,Corei7,16GB,HDD,4GB,20000,132000
+Velocity Micro,Signature 17,Corei9,16GB,SSD,8GB,15000,398000
+Zyrex,Cruiser,Corei9,16GB,SSD,4GB,20000,273000
+,,,,Not Defined Now,,,At Delivery

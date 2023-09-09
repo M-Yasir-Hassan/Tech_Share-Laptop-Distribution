@@ -1,0 +1,273 @@
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csprojAssemblyReference.cache
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+E:\Final Project\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csprojAssemblyReference.cache
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\MaterialSkin.dll
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CopyComplete
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Resources.Resource1.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manager_DashBoard.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\MaterialSkin.dll
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.AssemblyReference.cache
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.SuggestedBindingRedirects.cache
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manager_DashBoard.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Resources.Resource1.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CopyComplete
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.addproduct.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Delete_Product.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Place_order.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Shop.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Shop.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.addproduct.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Delete_Product.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Place_order.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddEmployee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewEmployee.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddEmployee.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Order.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewEmployee.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Update_Shop_Details.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Sales.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Employee_DashBoard.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Employee_DashBoard.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Sales.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Update_Shop_Details.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Order.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateEmployee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddRider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddRider.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateEmployee.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider_Employee.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Rider_Employee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Rider_Employee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider_Employee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateRider.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateRider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewStock.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.About.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.About.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Rider_Dashoboad.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewStock.resources
+D:\3rd Semester\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops_Rider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Route.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Rider_Dashoboad.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops_Rider.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\MaterialSkin.dll
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csprojAssemblyReference.cache
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.About.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Shop.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddEmployee.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddRider.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.addproduct.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Rider_Employee.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Delete_Product.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Employee_DashBoard.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Sales.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Route.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manager_DashBoard.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Place_order.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Resources.Resource1.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Rider_Dashoboad.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Update_Shop_Details.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateEmployee.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateRider.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Order.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops_Rider.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewEmployee.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewStock.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider_Employee.resources
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CopyComplete
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+D:\TeraBoxDownload\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\MaterialSkin.dll
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csprojAssemblyReference.cache
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.About.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Shop.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddEmployee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddRider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.addproduct.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Rider_Employee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Delete_Product.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Employee_DashBoard.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Sales.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Route.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manager_DashBoard.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Place_order.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Resources.Resource1.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Rider_Dashoboad.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Update_Shop_Details.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateEmployee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateRider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Order.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops_Rider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewEmployee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewStock.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider_Employee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CopyComplete
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\bin\Debug\MaterialSkin.dll
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.About.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Shop.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddEmployee.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddRider.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.addproduct.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Rider_Employee.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Employee_DashBoard.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.File_Complain.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Route.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manager_DashBoard.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Place_order.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Resources.Resource1.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Rider_Dashoboad.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateEmployee.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateRider.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Order.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops_Rider.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewComplaints.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewEmployee.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewStock.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider_Employee.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CopyComplete
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Delivery_Details_Rider.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Stock_DEmployee.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewOrdersManager.resources
+D:\Project-Final\Tech_Share Laptop Distribution\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csprojAssemblyReference.cache
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csprojAssemblyReference.cache
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.About.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddEmployee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddRider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Shop.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.addproduct.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Rider_Employee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Delivery_Details_Rider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Employee_DashBoard.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.File_Complain.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Route.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manager_DashBoard.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Place_order.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Resources.Resource1.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Rider_Dashoboad.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Stock_DEmployee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateEmployee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateRider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Order.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops_Rider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewComplaints.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewEmployee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewOrdersManager.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewStock.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider_Employee.resources
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\MaterialSkin.dll
+Y:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CopyComplete
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe.config
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.exe
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\Tech_Share Laptop Distribution.pdb
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\bin\Debug\MaterialSkin.dll
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csprojAssemblyReference.cache
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.About.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddEmployee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.AddRider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Shop.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.addproduct.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Add_Rider_Employee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Delivery_Details_Rider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Employee_DashBoard.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.File_Complain.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.LogIn.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ForgetPWD.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manage_Route.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Manager_DashBoard.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Place_order.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Properties.Resources.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Resources.Resource1.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Rider_Dashoboad.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.Stock_DEmployee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateEmployee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.UpdateRider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Order.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Shops_Rider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewComplaints.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewEmployee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewOrdersManager.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.ViewStock.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share_Laptop_Distribution.View_Rider_Employee.resources
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.GenerateResource.cache
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CoreCompileInputs.cache
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.csproj.CopyComplete
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.exe
+E:\Study\Semesters\3rd Semester\DSA_Project\Final Project\cs261f22finalpid26\Tech_Share Laptop Distribution\obj\Debug\Tech_Share Laptop Distribution.pdb

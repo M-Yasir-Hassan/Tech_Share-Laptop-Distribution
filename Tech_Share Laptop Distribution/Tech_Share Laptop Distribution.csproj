@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5365E6E-E0D3-4624-ADB4-6E59F2A188EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tech_Share_Laptop_Distribution</RootNamespace>
+    <AssemblyName>Tech_Share Laptop Distribution</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=2.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.3.1\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRider.Designer.cs">
+      <DependentUpon>AddRider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddShop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddShop.designer.cs">
+      <DependentUpon>AddShop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Product.designer.cs">
+      <DependentUpon>Add_Product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Rider_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Rider_Employee.designer.cs">
+      <DependentUpon>Add_Rider_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BL\ComplaintsBL.cs" />
+    <Compile Include="BL\CredientialsBL.cs" />
+    <Compile Include="BL\EmployeeBL.cs" />
+    <Compile Include="BL\OrderBL.cs" />
+    <Compile Include="BL\RiderBL.cs" />
+    <Compile Include="BL\ShopBL.cs" />
+    <Compile Include="BL\StockBL.cs" />
+    <Compile Include="Delivery_Details_Rider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Delivery_Details_Rider.designer.cs">
+      <DependentUpon>Delivery_Details_Rider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DL\ComplaintsDL.cs" />
+    <Compile Include="DL\CredientialsDL.cs" />
+    <Compile Include="DL\EmployeeDL.cs" />
+    <Compile Include="DL\OrderDL.cs" />
+    <Compile Include="DL\ReportsDL.cs" />
+    <Compile Include="DL\RiderDL.cs" />
+    <Compile Include="DL\ShopDL.cs" />
+    <Compile Include="DL\StockDL.cs" />
+    <Compile Include="Employee_DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_DashBoard.designer.cs">
+      <DependentUpon>Employee_DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="File_Complain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File_Complain.Designer.cs">
+      <DependentUpon>File_Complain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPWD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgetPWD.Designer.cs">
+      <DependentUpon>ForgetPWD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageRoute.Designer.cs">
+      <DependentUpon>ManageRoute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager_DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager_DashBoard.Designer.cs">
+      <DependentUpon>Manager_DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Place order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Place order.designer.cs">
+      <DependentUpon>Place order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Rider_Dashoboad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rider_Dashoboad.designer.cs">
+      <DependentUpon>Rider_Dashoboad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock DEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock DEmployee.designer.cs">
+      <DependentUpon>Stock DEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateEmployee.Designer.cs">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateRider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateRider.Designer.cs">
+      <DependentUpon>UpdateRider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Order.designer.cs">
+      <DependentUpon>View Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View Shops Rider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View Shops Rider.designer.cs">
+      <DependentUpon>View Shops Rider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewComplaints.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewComplaints.Designer.cs">
+      <DependentUpon>ViewComplaints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewEmployee.Designer.cs">
+      <DependentUpon>ViewEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewOrdersManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewOrdersManager.Designer.cs">
+      <DependentUpon>ViewOrdersManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewStock.Designer.cs">
+      <DependentUpon>ViewStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Rider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Rider.Designer.cs">
+      <DependentUpon>View_Rider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Rider_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Rider_Employee.designer.cs">
+      <DependentUpon>View_Rider_Employee.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRider.resx">
+      <DependentUpon>AddRider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddShop.resx">
+      <DependentUpon>AddShop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Product.resx">
+      <DependentUpon>Add_Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Rider_Employee.resx">
+      <DependentUpon>Add_Rider_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Delivery_Details_Rider.resx">
+      <DependentUpon>Delivery_Details_Rider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_DashBoard.resx">
+      <DependentUpon>Employee_DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File_Complain.resx">
+      <DependentUpon>File_Complain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgetPWD.resx">
+      <DependentUpon>ForgetPWD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageRoute.resx">
+      <DependentUpon>ManageRoute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager_DashBoard.resx">
+      <DependentUpon>Manager_DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Place order.resx">
+      <DependentUpon>Place order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resources\Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rider_Dashoboad.resx">
+      <DependentUpon>Rider_Dashoboad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock DEmployee.resx">
+      <DependentUpon>Stock DEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateEmployee.resx">
+      <DependentUpon>UpdateEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateRider.resx">
+      <DependentUpon>UpdateRider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Order.resx">
+      <DependentUpon>View Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View Shops Rider.resx">
+      <DependentUpon>View Shops Rider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewComplaints.resx">
+      <DependentUpon>ViewComplaints.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewEmployee.resx">
+      <DependentUpon>ViewEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewOrdersManager.resx">
+      <DependentUpon>ViewOrdersManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewStock.resx">
+      <DependentUpon>ViewStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Rider.resx">
+      <DependentUpon>View_Rider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Rider_Employee.resx">
+      <DependentUpon>View_Rider_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SignIn Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hide_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout_20px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DashBoard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reports.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orders.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Complaints.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogOut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutUS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SubMenu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My project-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My project.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
